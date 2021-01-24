@@ -1,0 +1,54 @@
+.navbar{
+    background-color: rgb(140, 164, 207);
+    color: black;
+}
+.image{
+    float: right;
+    display: inline;
+    width: 34%;
+}
+form{
+    color:rgb(238, 224, 224);
+}
+.form-control{
+    width: fit-content;
+}
+.container-fluid{
+    background-color: rgb(97, 91, 94);
+}
+.container-fluidSecondContainer{
+    background-color: rgb(242, 240, 247);
+    padding: 0;
+    margin:0;
+}
+table,th,td{
+    border: 1px solid black;
+    color: black;
+}
+th,td{
+    color: rgb(180, 175, 175);
+    color: black;
+}
+.container-fluidthirdContainer{
+    background-color: #3f413e;
+}
+.col1{
+    padding-left: 20px;
+    margin-left: 350px;
+    margin-top: 30px;
+    color: blanchedalmond;
+}
+.col2{
+    padding-left: 20px;
+    margin-left: 300px;
+    margin-top: 30px;
+    color: blanchedalmond;
+}
+body{
+    background-color: rgb(150, 198, 230);
+}
+.h1{
+    align-content: center;
+    color: white;
+
+}
